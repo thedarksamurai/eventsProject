@@ -1,2 +1,2 @@
 # resturantProject
-A Resturant Website biulit in NextJs using docker
+A Resturant Website built in NextJs using docker
