@@ -8,11 +8,21 @@ export default function aboutUs(){
     return(
         <>
         <Head>
-        <title>About Hokkaido Ramen Shop</title>
+        <title>About us</title>
         <meta name="description" content="Japanese ramen, sweets and tea" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <section className={styles.main}>
+        <h1>Our story</h1>
+        <p></p>
+      </section>
+      <section className={styles.main}>
+        <h1>Our Misson</h1>
+      </section>
+      <section>
+        <h1>The future is bright</h1>
+      </section>
         </>
     )
 }
