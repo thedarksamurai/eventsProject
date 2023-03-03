@@ -1,3 +1,4 @@
 {
-    "events_categories":[{"id": "lodon","title":"Events in Lodon"}]
+    "events_categories":[{"id": "lodon","title":"Events in Lodon", 
+    "descrption": ""}]
 }
