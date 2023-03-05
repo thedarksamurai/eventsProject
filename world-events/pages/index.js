@@ -5,7 +5,7 @@ export default function Home({ data }) {
   return (
     <div>
       <Head>
-        <title>Events app</title>
+        <title>Events around the World</title>
         <meta name="description" content="World Events" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
