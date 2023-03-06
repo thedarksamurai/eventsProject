@@ -1,3 +1,3 @@
 FROM node:18-alpine
 
-COPY package.json dest
+COPY package.json package-lock.json ./
