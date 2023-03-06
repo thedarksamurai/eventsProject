@@ -1,9 +1,9 @@
 import React from 'react'
-import AllEvents from './events-page'
+import { HomePage } from './home-page'
 
-describe('<AllEvents />', () => {
+describe('<HomePage />', () => {
   it('renders', () => {
     // see: https://on.cypress.io/mounting-react
-    cy.mount(<AllEvents />)
+    cy.mount(<HomePage />)
   })
 })
