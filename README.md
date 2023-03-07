@@ -1,2 +1,2 @@
 # eventsProject
-A Events Website built in NextJs with testing by Cypress
+ A NextJS world events app Built with NextJs 13 with testing by Cypress

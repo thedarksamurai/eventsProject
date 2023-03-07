@@ -1,0 +1,8 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.wordWrap": "bounded",
+  "editor.fontSize": 14,
+  "prettier.proseWrap": "always",
+  "html.format.wrapLineLength": 60,
+  "cmake.configureOnOpen": true
+}
