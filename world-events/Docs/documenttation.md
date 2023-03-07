@@ -6,4 +6,4 @@ Cypress: https://docs.cypress.io/guides/overview/why-cypress
 
 NextJS: https://nextjs.org/docs
 
-Docker 
+Docker https://docs.docker.com/
