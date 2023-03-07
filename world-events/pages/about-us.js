@@ -20,7 +20,7 @@ const AboutUsPage = () => {
         <li>
           <h3>Events we plan to Share in the Future</h3>
           <p>
-            We are working on a partnership with London winter comic con to share them with the world. As well many more to come, shh its a sercert.
+            We are working on a partnership with London winter comic con to share them with the world. As well many more to come, shh its a secert.
           </p>
         </li>
       </ul>
