@@ -1,2 +1,2 @@
-# resturantProject
-A Resturant Website built in NextJs using docker
+# eventsProject
+A Events Website built in NextJs and tested by Cypress
